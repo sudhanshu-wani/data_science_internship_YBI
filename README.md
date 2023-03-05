@@ -1,1 +1,2 @@
-# data_science_internship_YBI
+<h2>YBI Internship Project for Data Science</h2><br>
+Topic - Classification Model to Identify Multiple Disease
